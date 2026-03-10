@@ -216,3 +216,33 @@ bybit-terminal/
 - **REST for snapshots and orders**: History, positions, and order placement use pybit HTTP.
 - **WebSocket for live candles**: Backend subscribes to Bybit kline stream and fans out normalized events to frontend clients.
 - **SPA + Nginx**: React app served by Nginx with `try_files` for routing; `/api` and `/ws` proxied to backend.
+
+
+***
+## About
+## 📌 Quantitative Researcher | Algorithmic Trader | Trading Systems Architect
+
+Quantitative researcher and trading systems engineer with end-to-end ownership of systematic strategies — from research and statistical validation to execution architecture and 24/7 production deployment.
+
+Experience across crypto (CEX/DEX), FX, and exchange-traded markets.
+
+Core focus areas:
+- Systematic strategy design, validation, and robustness testing
+- Market microstructure analysis (order book dynamics, liquidity, spread behavior, funding, volume delta)
+- Tick-level and historical backtesting framework development
+- Execution engine architecture and order lifecycle management
+- Real-time market data processing pipelines
+- Risk-aware system design and capital efficiency
+- Production-grade trading infrastructure
+
+## Technical Stack
+
+- **Languages:** Python, C++, MQL5
+- **Execution & Connectivity:** REST, WebSocket, FIX
+- **Infrastructure:** Linux, Docker, Redis, PostgreSQL, ClickHouse
+- **Analytics:** NumPy, Pandas, custom backtesting frameworks
+
+## Contact
+
+**Email:** ryu8777@gmail.com
+***
