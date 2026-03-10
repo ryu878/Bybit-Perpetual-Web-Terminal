@@ -1,6 +1,7 @@
 # Bybit Perpetual Web Terminal
 
 Production-oriented v1 web trading terminal for Bybit perpetual contracts only.
+<img width="1295" height="1025" alt="image" src="https://github.com/user-attachments/assets/05c1c07c-fe7f-4a8c-85eb-7b02e63a0d7d" />
 
 ## Why this project exists
 
