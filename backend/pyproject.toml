@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "bybit-terminal-backend"
+version = "0.1.0"
+description = "Backend for Bybit Perpetual Web Terminal"
+authors = []
+packages = [{ include = "app" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.115"
+uvicorn = { extras = ["standard"], version = "^0.32" }
+pybit = "^5.6"
+pydantic = "^2.9"
+pydantic-settings = "^2.6"
+python-dotenv = "^1.0"
+websockets = "^14.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3"
+httpx = "^0.27"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
